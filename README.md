@@ -33,4 +33,4 @@ npm run dev
 ```
 
 I push the env files to make it easier to run the app. In a real app, I would not do this.
-How this is a app minor I did not use test and I did not use a logger. In a real app I would use it.
+How this is a app minor I did not use test and I did not use a logger. I did not used prettier , eslint , husky, convetional commit and branches (prod, staging , dev) to manage a standard code.
